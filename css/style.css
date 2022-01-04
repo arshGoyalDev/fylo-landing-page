@@ -94,7 +94,7 @@ h1, h2, h3, h4, h5, h6{
 
 
 header{
-  background-image: url(images/bg-curvy-mobile.svg) !important;
+  background-image: url(../images/bg-curvy-mobile.svg) !important;
   background-position: bottom !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;
